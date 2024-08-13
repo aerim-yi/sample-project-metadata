@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
+    "name": "Immutable zkEVM Frog Project",
+    "description": "A frog project for minting NFTs on Immutable zkEVM",
+    "image": "ipfs://QmSdCjLvpTyLtENHrQzkhJvBoZ77yc83pSR7QvFNLC9eHp",
     "external_link": "https://immutable.com" 
 }
